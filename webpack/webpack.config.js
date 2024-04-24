@@ -29,7 +29,7 @@ plugins: [
         template: './src/index.html'
     }),
 
-    newMiniCssExtract({
+    new MiniCssExtract({
         filename: 'style.css'
     })
 
