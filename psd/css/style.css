@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: ffffff;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+    
+    header {
+        background: white;
+    display: block;
+    float: left;
+   padding: 22px 28px 32px;
+    width: 100%;
+    border-bottom: 1px solid #254159;
+    }
+
+    
+
+.btn-saiba-mais {
+    border: 1px solid #dcdcdc;
+    color: #dc002d;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13pt;
+    line-height: 15.6pt;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.btn-saiba-mais:hover {
+    color: #333333;
+
+}
