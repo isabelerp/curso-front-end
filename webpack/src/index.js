@@ -1,4 +1,4 @@
-import './style.sass'
+import './style.scss'
 
 function titleComponent(){
     const elemH1 = document.createElement('h1')
