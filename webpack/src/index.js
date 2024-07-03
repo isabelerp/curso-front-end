@@ -1,4 +1,4 @@
-import './style.scss'
+import './styles.scss'
 
 function titleComponent(){
     const elemH1 = document.createElement('h1')
