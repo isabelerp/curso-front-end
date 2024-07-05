@@ -1,0 +1,36 @@
+form {
+    border: 1px solid black;
+    border-radius: 1rem;
+    border-style: dashed;
+    border-width: 4px;
+    background-color: #DCDCDC;
+padding: 1rem;
+margin: 2rem;
+}
+
+input {
+    display: block;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+label {
+    font-size: 1.6rem;
+}
+
+button {
+    border-radius: 5px;
+    background-color: grey;
+    color: #fff;
+    font-size: 1.6rem;
+    padding: 1rem 1.5rem;
+}
+
+#mensagem p {
+    font-size: 1.4rem;
+    color: #f00;
+}
+
+strong {
+    font-size: 1.4rem;
+}
