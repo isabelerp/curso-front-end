@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/style-guide.42web.io/static/css/main.073c9b0a.css",
+    "main.js": "/style-guide.42web.io/static/js/main.175d9a6f.js",
+    "static/js/787.c1112931.chunk.js": "/style-guide.42web.io/static/js/787.c1112931.chunk.js",
+    "index.html": "/style-guide.42web.io/index.html",
+    "main.073c9b0a.css.map": "/style-guide.42web.io/static/css/main.073c9b0a.css.map",
+    "main.175d9a6f.js.map": "/style-guide.42web.io/static/js/main.175d9a6f.js.map",
+    "787.c1112931.chunk.js.map": "/style-guide.42web.io/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.175d9a6f.js"
+  ]
+}
